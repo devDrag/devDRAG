@@ -1,4 +1,4 @@
-# We're DRAGOnliners! 👩‍👨‍💻💻
+# We're DRAGOnliners!
 
 ## DRAG Development Team
 
